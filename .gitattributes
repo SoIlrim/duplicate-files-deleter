@@ -1,0 +1,8 @@
+# Text file normalization
+build/* linguist-vendored
+*.jpg binary 
+*.ico binary
+public/** linguist-vendored
+go.sum linguist-generated
+Cargo.lock linguist-generated
+src/**/*.rs linguist-detectable
